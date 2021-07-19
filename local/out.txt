@@ -1,0 +1,49 @@
+025H Total
+	•$118.2mm in Sales $, +$1.86mm
+		•Comp of -5.4%, +180bps
+		•2yr comp of +19.4%, +540bps
+		•4week, 2yr comp of +16.1%, +140bps
+	•17.4mm in Units, -0.14mm
+		•Comp of -11.8%, -50bps
+		•2yr comp of -2.0%, +270bps
+		•4week, 2yr comp of -5.0%, +120bps
+	•In Stock of 97.1%, -13.0bps
+		•vLY of +1.1%, +0bps
+025T Total
+	•$172.6mm in Sales $, +$5.28mm
+		•Comp of +4.1%, +390bps
+		•2yr comp of +34.6%, +600bps
+		•4week, 2yr comp of +31.6%, -360bps
+	•8.3mm in Units, +0.23mm
+		•Comp of -1.5%, +270bps
+		•2yr comp of +12.2%, +520bps
+		•4week, 2yr comp of +10.1%, +10bps
+	•In Stock of 95.4%, +5.0bps
+		•vLY of +1.5%, +50bps
+028I Total
+	•$228.0mm in Sales $, -$16.88mm
+		•Comp of -4.0%, -330bps
+		•2yr comp of +26.8%, +250bps
+		•4week, 2yr comp of +18.3%, -530bps
+	•14.6mm in Units, +0.58mm
+		•Comp of +1.4%, +390bps
+		•2yr comp of +19.5%, +1060bps
+		•4week, 2yr comp of +8.9%, +130bps
+	•In Stock of 94.0%, +8.0bps
+		•vLY of +9.1%, +10bps
+028O Total
+	•$150.0mm in Sales $, -$12.65mm
+		•Comp of -4.4%, -470bps
+		•2yr comp of +41.1%, +1060bps
+		•4week, 2yr comp of +22.2%, +160bps
+	•23.8mm in Units, -1.77mm
+		•Comp of -10.9%, -420bps
+		•2yr comp of +35.7%, +1230bps
+		•4week, 2yr comp of +11.2%, +180bps
+	•In Stock of 95.3%, -10.0bps
+		•vLY of +19.7%, +50bps
+
+
+
+Your weekly forecast should be above
+	- Thanks, Suraaj Samanta from Summer 2021
