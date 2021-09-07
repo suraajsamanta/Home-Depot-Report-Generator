@@ -5,6 +5,9 @@ I thought it would be fun to create a website that automates the Weekly Report t
 An example public version of the website is live at: suraajsamanta.pythonanywhere.com
 
 
+The local folder represents the code to run the script on your local machine.
+The website folder represents the core code used to deploy the public website.
+
 Beforeweek.csv and afterweek.csv are examples of the input CSVs that the website takes.
 
 Out.txt represents what the website automatically returns. 
